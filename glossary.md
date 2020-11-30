@@ -1,14 +1,15 @@
 Glossary
 ========
 
-### Revision History
+## Revision History
 
 | Version         | Date         | Description | Author              |
 |:----------------|:-------------|:------------|:--------------------|
 | Inception draft | Jan 27, 2020 | First draft | Vladimir Likhatskiy |
 
+<br/>
 
-### Definitions
+## Definitions
 
 <table>
     <thead>
@@ -19,7 +20,7 @@ Glossary
             <!-- # -->
             <td>1</td>
             <!-- Term -->
-            <th>Project rating</th>
+            <td><b>Term1</b></td>
             <!-- Definition and Information -->
             <td></td>
             <!-- Format -->
@@ -33,7 +34,7 @@ Glossary
             <!-- # -->
             <td>2</td>
             <!-- Term -->
-            <th></th>
+            <td><b>Term2</b></td>
             <!-- Definition and Information -->
             <td></td>
             <!-- Format -->
@@ -47,7 +48,7 @@ Glossary
             <!-- # -->
             <td>3</td>
             <!-- Term -->
-            <th></th>
+            <td><b>Term3</b></td>
             <!-- Definition and Information -->
             <td></td>
             <!-- Format -->
